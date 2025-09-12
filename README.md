@@ -20,8 +20,8 @@ I’m a **creative problem-solver** and a **visionary coder** who believes in bu
 ```yaml
 Languages:        Dart, Java, JavaScript, PHP, Python
 Frameworks:       Flutter, Laravel, React, Next.js
-Database:         MySQL, SQLite, PostgreSQL
-Tools & DevOps:   Git, Postman, XAMPP, Firebase
+Database:         MySQL, Mongoo, SQLite, PostgreSQL
+Tools & DevOps:   Git, Postman, XAMPP, 
 ```
 
 ---
@@ -37,8 +37,8 @@ Tools & DevOps:   Git, Postman, XAMPP, Firebase
 ### 🚀 Projects I’m proud of
 - 📱 **Gitsawe App** – Ethiopian liturgical calendar and daily scripture in Flutter  
 - 🏫 **DMU Dormitory Management System** – Laravel-based room assignment & coordination  
-- 📄 **CV Builder App** – Responsive web app using Next.js + Python backend  
-- 📖 **መልክአ ማርያም / መልክአ ኢየሱስ** – Structured PDF-based mobile liturgical readers  
+- 📄 **Personal Portfolio** – Responsive web app using Next.js 
+- 📖 **ግጻዌ / ስንክሳር/ ባሕረ ሃሳብ ወጸሎታት** – Structured PDF-based mobile liturgical readers  
 
 ---
 
