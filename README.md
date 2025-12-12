@@ -85,9 +85,9 @@ Structured PDF-based mobile liturgical readers
 | Repository | Description | Language | Stars | Forks | Size | Last Updated |
 |------------|-------------|----------|-------|-------|------|--------------|
 | [**dmudms_next**](https://github.com/hailemariam-eyayu/dmudms_next) | Modern dormitory management system with Next.js 15 | TypeScript | ⭐ 0 | 🍴 0 | 2.1MB | Dec 2024 |
-| [**dmudms**](https://github.com/hailemariam-eyayu/dmudms) | Laravel-based dormitory management system | PHP | ⭐ 0 | 🍴 0 | 1.8MB | Nov 2024 |
+| [**dmudms**](https://github.com/hailemariam-eyayu/dmudms) | Laravel-based dormitory management system | Laravel | ⭐ 0 | 🍴 0 | 1.8MB | Nov 2024 |
 | [**personal-portfolio**](https://github.com/hailemariam-eyayu/personal-portfolio) | Personal portfolio website with Next.js | JavaScript | ⭐ 0 | 🍴 0 | 850KB | Oct 2024 |
-| [**library-management**](https://github.com/hailemariam-eyayu/library-management) | Comprehensive library management solution | PHP | ⭐ 0 | 🍴 0 | 1.2MB | Sep 2024 |
+| [**gitsawe and sinksar**](https://github.com/hailemariam-eyayu/GitsaweTailwind) | Comprehensive library management solution | React | ⭐ 0 | 🍴 0 | 1.2MB | Sep 2024 |
 
 ### 📈 Repository Statistics
 - 📚 **10+** Public Repositories
@@ -97,7 +97,7 @@ Structured PDF-based mobile liturgical readers
 - 📝 **150+** Total Commits Across All Projects
 
 ### � MosBt Used Languages
-- **PHP**: 2 repositories (Management Systems)
+- **Laravel/PHP**: 2 repositories (Management Systems)
 - **TypeScript**: 1 repository (Modern Web Apps)
 - **JavaScript**: 2 repositories (Frontend Projects)
 - **Dart**: 2 repositories (Flutter Apps)
@@ -109,7 +109,8 @@ Structured PDF-based mobile liturgical readers
 ### 🌟 Repository Highlights
 
 #### 🏠 **DMU Dormitory Management System Evolution**
-- **[dmudms_next](https://github.com/hailemariam-eyayu/dmudms_next)** - Next.js 15, TypeScript, MongoDB
+- **[dmudms_next](https://github.com/hailemariam-eyayu/dmudms_next)** - Next.js 15, TypeScript, MongoDB https://dmudms-next.vercel.app
+- **[gitsawe_tailwind](https://github.com/hailemariam-eyayu/GitsaweTailwind)** - Next.js 15, TypeScript, MongoDB https://gitsawe-tailwind-2019.vercel.app
 - **[dmudms](https://github.com/hailemariam-eyayu/dmudms)** - Laravel, PHP, MySQL
 - **Migration Journey**: From Laravel to modern Next.js architecture
 - **Features**: Role-based auth, email notifications, CSV imports, profile images
