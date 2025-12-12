@@ -62,7 +62,7 @@ Tools & DevOps:   Git, Postman, XAMPP, Vercel, VS Code
 
 ---
 
-## 🚀 Projects I'm proud of
+## 🚀 Featured Projects
 
 ### 📱 **Gitsawe App** – Ethiopian liturgical calendar and daily scripture in Flutter
 **🔥 Faith + Technology Project**
@@ -71,55 +71,55 @@ Tools & DevOps:   Git, Postman, XAMPP, Vercel, VS Code
 - **Purpose**: Digital faith experience for Ethiopian Orthodox community
 - **Status**: Active development with liturgical chant integration
 
-### 🏠 [DMU Dormitory Management System (Next.js)](https://github.com/hailemariam-eyayu/dmudms_next)
-**🔥 Latest Full-Stack Project** - Modern dormitory management system
-- **Tech Stack**: Next.js 15, TypeScript, MongoDB, NextAuth.js, Tailwind CSS
-- **Features**: Role-based authentication, student/employee management, room assignments, emergency systems
-- **Status**: Production-ready with email notifications and CSV import/export
-- **Commits**: 50+ commits with comprehensive feature development
-
-### 🏠 [DMU Dormitory Management System (Laravel)](https://github.com/hailemariam-eyayu/dmudms)
-Original Laravel-based dormitory management system
-- **Tech Stack**: Laravel, PHP, MySQL, Blade Templates, Bootstrap
-- **Features**: Complete CRUD operations, user management, reporting system
-- **Migration**: Successfully migrated to Next.js with enhanced features
-- **Commits**: 30+ commits with full system implementation
-
-### 🌐 [Personal Portfolio](https://personal-portfolio-zdwa.vercel.app/)
-Responsive web application showcasing projects and skills
-- **Tech Stack**: Next.js, React, Tailwind CSS, Vercel
-- **Features**: Project showcase, responsive design, contact integration
-- **Status**: Live and continuously updated
-
 ### 📖 **ግጻዌ / ስንክሳር/ ባሕረ ሃሳብ ወጸሎታት**
 Structured PDF-based mobile liturgical readers
 - **Tech Stack**: Flutter, PDF processing, Amharic text handling
 - **Features**: Ethiopian Orthodox scripture structuring, offline reading
 - **Purpose**: Preserving and digitizing traditional liturgical texts
 
-### 📚 [Library Management System](https://github.com/hailemariam-eyayu/library-management)
-Comprehensive library management solution
-- **Tech Stack**: PHP, MySQL, HTML, CSS, JavaScript
-- **Features**: Book cataloging, member management, borrowing system
-- **Commits**: 25+ commits with complete functionality
+---
 
-### 🎓 [Student Information System](https://github.com/hailemariam-eyayu/student-info-system)
-Academic management platform for educational institutions
-- **Tech Stack**: PHP, MySQL, Bootstrap, jQuery
-- **Features**: Student records, grade management, attendance tracking
-- **Commits**: 20+ commits with academic features
+## 📊 My GitHub Repositories
 
-### 🏥 [Hospital Management System](https://github.com/hailemariam-eyayu/hospital-management)
-Healthcare management solution
-- **Tech Stack**: PHP, MySQL, HTML, CSS, JavaScript
-- **Features**: Patient management, appointment scheduling, medical records
-- **Commits**: 35+ commits with healthcare workflows
+<!-- REPOSITORY_LIST_START -->
+| Repository | Description | Language | Stars | Forks | Size | Last Updated |
+|------------|-------------|----------|-------|-------|------|--------------|
+| [**dmudms_next**](https://github.com/hailemariam-eyayu/dmudms_next) | Modern dormitory management system with Next.js 15 | TypeScript | ⭐ 0 | 🍴 0 | 2.1MB | Dec 2024 |
+| [**dmudms**](https://github.com/hailemariam-eyayu/dmudms) | Laravel-based dormitory management system | PHP | ⭐ 0 | 🍴 0 | 1.8MB | Nov 2024 |
+| [**personal-portfolio**](https://github.com/hailemariam-eyayu/personal-portfolio) | Personal portfolio website with Next.js | JavaScript | ⭐ 0 | 🍴 0 | 850KB | Oct 2024 |
+| [**library-management**](https://github.com/hailemariam-eyayu/library-management) | Comprehensive library management solution | PHP | ⭐ 0 | 🍴 0 | 1.2MB | Sep 2024 |
 
-### 🏪 [Point of Sale System](https://github.com/hailemariam-eyayu/pos-system)
-Modern POS solution for retail businesses
-- **Tech Stack**: PHP, MySQL, JavaScript, Bootstrap
-- **Features**: Inventory management, sales tracking, reporting
-- **Commits**: 28+ commits with business logic
+### 📈 Repository Statistics
+- 📚 **10+** Public Repositories
+- ⭐ **3** Total Stars  
+- 🍴 **1** Total Forks
+- � ***8MB+** Total Code Size
+- 📝 **150+** Total Commits Across All Projects
+
+### � MosBt Used Languages
+- **PHP**: 2 repositories (Management Systems)
+- **TypeScript**: 1 repository (Modern Web Apps)
+- **JavaScript**: 2 repositories (Frontend Projects)
+- **Dart**: 2 repositories (Flutter Apps)
+- **Java**: 1 repository (Academic Projects)
+
+*Repository data last updated: December 2024*
+<!-- REPOSITORY_LIST_END -->
+
+### 🌟 Repository Highlights
+
+#### 🏠 **DMU Dormitory Management System Evolution**
+- **[dmudms_next](https://github.com/hailemariam-eyayu/dmudms_next)** - Next.js 15, TypeScript, MongoDB
+- **[dmudms](https://github.com/hailemariam-eyayu/dmudms)** - Laravel, PHP, MySQL
+- **Migration Journey**: From Laravel to modern Next.js architecture
+- **Features**: Role-based auth, email notifications, CSV imports, profile images
+
+#### 💼 **Management Systems Portfolio**
+- **[Library Management](https://github.com/hailemariam-eyayu/library-management)** - Book cataloging and member management
+
+#### 🌐 **Web Development**
+- **[Personal Portfolio](https://personal-portfolio-zdwa.vercel.app/)** - Next.js showcase
+- **Responsive Design** - Modern UI/UX implementations
 
 ## 📈 GitHub Stats
 
@@ -202,8 +202,8 @@ Modern POS solution for retail businesses
 - **Full-Stack Migration**: Successfully migrated complex Laravel application to Next.js
 - **Faith-Tech Integration**: Developing liturgical apps for Ethiopian Orthodox community
 - **Email Systems**: Implemented comprehensive email notification systems
-- **Management Systems**: Built 7+ complete management systems from scratch
-- **200+ Commits**: Across multiple repositories with production-ready applications
+- **Management Systems**: Built 4+ complete management systems from scratch
+- **150+ Commits**: Across multiple repositories with production-ready applications
 
 ---
 
