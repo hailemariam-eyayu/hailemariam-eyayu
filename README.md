@@ -166,7 +166,7 @@ Structured PDF-based mobile liturgical readers
 #### 🌐 **Live Demos - Main Projects**
 <div align="center">
 
-| Project | Live Demo | Repository | Description |
+| Project | Live Demo | Repository | Descriptions |
 |---------|-----------|------------|-------------|
 | **⛪ Gitsawe Web App** | [🚀 View Live](https://gitsawe-tailwind-2019.vercel.app/) | [📂 GitHub](https://github.com/hailemariam-eyayu/GitsaweTailwind) | Ethiopian Orthodox Church platform with React & MongoDB |
 | **🏠 DMUDMS Next.js** | [🚀 View Live](https://dmudms-next.vercel.app/) | [📂 GitHub](https://github.com/hailemariam-eyayu/dmudms_next) | Modern dormitory management system with Next.js 15 |
