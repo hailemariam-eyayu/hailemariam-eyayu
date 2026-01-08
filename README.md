@@ -1,18 +1,23 @@
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/98972478?s=400&u=32f972e98b3fcbee69646921a0a59b1e5f272b6c&v=4" alt="Hailemariam Eyayu" width="150" style="border-radius: 50%; " />
-</p>
+<div align="center">
+  
+<img src="https://avatars.githubusercontent.com/u/98972478?s=400&u=32f972e98b3fcbee69646921a0a59b1e5f272b6c&v=4" alt="Hailemariam Eyayu" width="150" style="border-radius: 50%;" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Selam%2C+I'm+Hailemariam+Eyayu;Software+Engineer+%7C+Full-Stack+Developer;Technology+%2B+Theology+%7C+Faith-Driven+Coder;Building+Software+that+Serves+People)](https://git.io/typing-svg)
+
+</div>
 
 ## 👋 Selam, I'm Hailemariam Eyayu
 
-> 💻 A Software Engineer by profession,  
-> 🔥 Fueled by passion, purpose, and prayer.
+> 💻 **Software Engineer by profession**  
+> 🔥 **Fueled by passion, purpose, and prayer**  
+> ✝️ **Blending technology + theology for meaningful impact**
 
 ---
 
 ### 🧭 Who am I?
 I'm a **creative problem-solver** and a **visionary coder** who believes in building software that serves people and glorifies purpose. I recently graduated in **Software Engineering from Debre Markos University**, and my journey has been one of **grace, growth, and grit**.
 
-Full-Stack Developer passionate about building scalable web applications and management systems, with a special focus on **technology + theology** for meaningful digital experiences.
+**Full-Stack Developer** passionate about building scalable web applications and management systems, with a special focus on **technology + theology** for meaningful digital experiences.
 
 ### ⚙️ Tech Toolbox
 
@@ -87,7 +92,7 @@ Structured PDF-based mobile liturgical readers
 | [**dmudms_next**](https://github.com/hailemariam-eyayu/dmudms_next) | Modern dormitory management system with Next.js 15 | TypeScript | ⭐ 0 | 🍴 0 | 2.1MB | Dec 2024 |
 | [**dmudms**](https://github.com/hailemariam-eyayu/dmudms) | Laravel-based dormitory management system | Laravel | ⭐ 0 | 🍴 0 | 1.8MB | Nov 2024 |
 | [**personal-portfolio**](https://github.com/hailemariam-eyayu/personal-portfolio) | Personal portfolio website with Next.js | JavaScript | ⭐ 0 | 🍴 0 | 850KB | Oct 2024 |
-| [**gitsawe and sinksar**](https://github.com/hailemariam-eyayu/GitsaweTailwind) | Comprehensive library management solution | React | ⭐ 0 | 🍴 0 | 1.2MB | Sep 2024 |
+| [**gitsawe and sinksar**](https://github.com/hailemariam-eyayu/GitsaweTailwind) | Comprehensive Ethiopian Orthodox Church platform | React | ⭐ 0 | 🍴 0 | 1.2MB | Sep 2024 |
 
 ### 📈 Repository Statistics
 - 📚 **10+** Public Repositories
@@ -116,20 +121,142 @@ Structured PDF-based mobile liturgical readers
 - **Features**: Role-based auth, email notifications, CSV imports, profile images
 
 #### 💼 **Management Systems Portfolio**
-- **[Library Management](https://github.com/hailemariam-eyayu/library-management)** - Book cataloging and member management
+- **[DMUDMS Evolution](https://github.com/hailemariam-eyayu/dmudms_next)** - Modern dormitory management with Next.js
 
 #### 🌐 **Web Development**
 - **[Personal Portfolio](https://personal-portfolio-zdwa.vercel.app/)** - Next.js showcase
 - **Responsive Design** - Modern UI/UX implementations
 
-## 📈 GitHub Stats
+---
 
-![Hailemariam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hailemariam-eyayu&show_icons=true&theme=radical)
+## 📊 Dynamic GitHub Analytics & Commit Analysis
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hailemariam-eyayu&layout=compact&theme=radical)
+<div align="center">
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hailemariam-eyayu&theme=radical)
+### � tReal-Time GitHub Statistics
+![Hailemariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hailemariam-eyayu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+### 🔥 Contribution Streak & Activity
+![GitHub Streak](https://streak-stats.demolab.com/?user=hailemariam-eyayu&theme=radical&hide_border=true)
+
+### 💻 Language Distribution & Usage
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hailemariam-eyayu&layout=compact&theme=radical&hide_border=true&langs_count=10)
+
+### 📊 Detailed Commit Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hailemariam-eyayu&theme=redical&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🏆 Featured Projects & Repository Analysis
+
+### 🌟 Main Projects with Live Stats
+
+<div align="center">
+
+[![Gitsawe Web App](https://github-readme-stats.vercel.app/api/pin/?username=hailemariam-eyayu&repo=GitsaweTailwind&theme=radical&hide_border=true)](https://github.com/hailemariam-eyayu/GitsaweTailwind)
+[![DMUDMS Next.js](https://github-readme-stats.vercel.app/api/pin/?username=hailemariam-eyayu&repo=dmudms_next&theme=radical&hide_border=true)](https://github.com/hailemariam-eyayu/dmudms_next)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=hailemariam-eyayu&repo=portfolio&theme=radical&hide_border=true)](https://github.com/hailemariam-eyayu/portfolio)
+[![CV Builder](https://github-readme-stats.vercel.app/api/pin/?username=hailemariam-eyayu&repo=cv-builder-next&theme=radical&hide_border=true)](https://github.com/hailemariam-eyayu/cv-builder-next)
+
+</div>
+
+#### 🌐 **Live Demos - Main Projects**
+<div align="center">
+
+| Project | Live Demo | Repository | Description |
+|---------|-----------|------------|-------------|
+| **⛪ Gitsawe Web App** | [🚀 View Live](https://gitsawe-tailwind-2019.vercel.app/) | [📂 GitHub](https://github.com/hailemariam-eyayu/GitsaweTailwind) | Ethiopian Orthodox Church platform with React & MongoDB |
+| **🏠 DMUDMS Next.js** | [🚀 View Live](https://dmudms-next.vercel.app/) | [📂 GitHub](https://github.com/hailemariam-eyayu/dmudms_next) | Modern dormitory management system with Next.js 15 |
+| **📄 CV Builder** | [🚀 View Live](https://cv-builder-hailemariam.vercel.app/) | [📂 GitHub](https://github.com/hailemariam-eyayu/cv-builder-next) | Professional resume builder with React & TypeScript |
+| **💼 Portfolio** | [🚀 View Live](https://hailemariam-eyayu.vercel.app/) | [📂 GitHub](https://github.com/hailemariam-eyayu/portfolio) | Personal portfolio showcasing skills & projects |
+
+</div>
+
+### 📱 Mobile Applications
+
+<div align="center">
+
+[![Flutter App](https://github-readme-stats.vercel.app/api/pin/?username=hailemariam-eyayu&repo=gitsaweflutterapk&theme=radical&hide_border=true)](https://github.com/hailemariam-eyayu/gitsaweflutterapk)
+[![React Native App](https://github-readme-stats.vercel.app/api/pin/?username=hailemariam-eyayu&repo=GitsaweReactNative&theme=radical&hide_border=true)](https://github.com/hailemariam-eyayu/GitsaweReactNative)
+
+[![Expo App](https://github-readme-stats.vercel.app/api/pin/?username=hailemariam-eyayu&repo=gitsawe_expo_app&theme=radical&hide_border=true)](https://github.com/hailemariam-eyayu/gitsawe_expo_app)
+
+</div>
+
+### 🤖 Bots & APIs
+
+<div align="center">
+
+[![Gitsawe Bot](https://github-readme-stats.vercel.app/api/pin/?username=hailemariam-eyayu&repo=gitsawebot&theme=radical&hide_border=true)](https://github.com/hailemariam-eyayu/gitsawebot)
+
+</div>
+
+### 🎓 SyntecXHub Internship Projects
+
+<div align="center">
+
+[![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=hailemariam-eyayu&repo=expense-tracker-react&theme=radical&hide_border=true)](https://github.com/hailemariam-eyayu/expense-tracker-react)
+[![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=hailemariam-eyayu&repo=weather-app-react&theme=radical&hide_border=true)](https://github.com/hailemariam-eyayu/weather-app-react)
+
+[![Notes App](https://github-readme-stats.vercel.app/api/pin/?username=hailemariam-eyayu&repo=notes-app-react&theme=radical&hide_border=true)](https://github.com/hailemariam-eyayu/notes-app-react)
+
+</div>
+
+#### 🌐 **Live Demos - SyntecXHub Projects**
+<div align="center">
+
+| Project | Live Demo | Repository | Description |
+|---------|-----------|------------|-------------|
+| **💰 Expense Tracker** | [🚀 View Live](https://expense-tracker-lemon-rho.vercel.app/) | [📂 GitHub](https://github.com/hailemariam-eyayu/expense-tracker-react) | React expense management with categories & analytics |
+| **🌤️ Weather App** | [🚀 View Live](https://weather-app-beta-rosy-13.vercel.app/) | [📂 GitHub](https://github.com/hailemariam-eyayu/weather-app-react) | Real-time weather data with forecasts |
+| **📝 Notes App** | [🚀 View Live](https://notes-app-gilt-nu.vercel.app/) | [📂 GitHub](https://github.com/hailemariam-eyayu/notes-app-react) | Note-taking app with search & tags |
+
+</div>
+
+---
+
+## 📈 Comprehensive Repository Analytics
+
+### 🔍 Individual Repository Commit Analysis
+
+> **Note**: Some repositories may show as "Private" if they are not publicly accessible. This is normal for private or organization repositories.
+
+#### 🏠 **Main Projects**
+| Repository | Commits | Last Activity | Languages | Size | Status |
+|------------|---------|---------------|-----------|------|--------|
+| **GitsaweTailwind** | ![Commits](https://img.shields.io/github/commit-activity/t/hailemariam-eyayu/GitsaweTailwind?style=flat-square&color=red) | ![Last Commit](https://img.shields.io/github/last-commit/hailemariam-eyayu/GitsaweTailwind?style=flat-square&color=green) | ![Languages](https://img.shields.io/github/languages/count/hailemariam-eyayu/GitsaweTailwind?style=flat-square&color=blue) | ![Size](https://img.shields.io/github/repo-size/hailemariam-eyayu/GitsaweTailwind?style=flat-square&color=orange) | 🟢 Active |
+| **dmudms_next** | ![Commits](https://img.shields.io/github/commit-activity/t/hailemariam-eyayu/dmudms_next?style=flat-square&color=red) | ![Last Commit](https://img.shields.io/github/last-commit/hailemariam-eyayu/dmudms_next?style=flat-square&color=green) | ![Languages](https://img.shields.io/github/languages/count/hailemariam-eyayu/dmudms_next?style=flat-square&color=blue) | ![Size](https://img.shields.io/github/repo-size/hailemariam-eyayu/dmudms_next?style=flat-square&color=orange) | 🟢 Active |
+| **portfolio** | ![Commits](https://img.shields.io/github/commit-activity/t/hailemariam-eyayu/portfolio?style=flat-square&color=red) | ![Last Commit](https://img.shields.io/github/last-commit/hailemariam-eyayu/portfolio?style=flat-square&color=green) | ![Languages](https://img.shields.io/github/languages/count/hailemariam-eyayu/portfolio?style=flat-square&color=blue) | ![Size](https://img.shields.io/github/repo-size/hailemariam-eyayu/portfolio?style=flat-square&color=orange) | 🟢 Active |
+| **cv-builder-next** | ![Status](https://img.shields.io/badge/Status-Private-yellow?style=flat-square) | ![Status](https://img.shields.io/badge/Access-Private-yellow?style=flat-square) | ![Status](https://img.shields.io/badge/Type-Private-yellow?style=flat-square) | ![Status](https://img.shields.io/badge/Repo-Private-yellow?style=flat-square) | 🟡 Private |
+
+#### 📱 **Mobile Applications**
+| Repository | Commits | Last Activity | Languages | Size | Status |
+|------------|---------|---------------|-----------|------|--------|
+| **gitsaweflutterapk** | ![Commits](https://img.shields.io/github/commit-activity/t/hailemariam-eyayu/gitsaweflutterapk?style=flat-square&color=red) | ![Last Commit](https://img.shields.io/github/last-commit/hailemariam-eyayu/gitsaweflutterapk?style=flat-square&color=green) | ![Languages](https://img.shields.io/github/languages/count/hailemariam-eyayu/gitsaweflutterapk?style=flat-square&color=blue) | ![Size](https://img.shields.io/github/repo-size/hailemariam-eyayu/gitsaweflutterapk?style=flat-square&color=orange) | 🟢 Active |
+| **GitsaweReactNative** | ![Commits](https://img.shields.io/github/commit-activity/t/hailemariam-eyayu/GitsaweReactNative?style=flat-square&color=red) | ![Last Commit](https://img.shields.io/github/last-commit/hailemariam-eyayu/GitsaweReactNative?style=flat-square&color=green) | ![Languages](https://img.shields.io/github/languages/count/hailemariam-eyayu/GitsaweReactNative?style=flat-square&color=blue) | ![Size](https://img.shields.io/github/repo-size/hailemariam-eyayu/GitsaweReactNative?style=flat-square&color=orange) | 🟢 Active |
+| **gitsawe_expo_app** | ![Commits](https://img.shields.io/github/commit-activity/t/hailemariam-eyayu/gitsawe_expo_app?style=flat-square&color=red) | ![Last Commit](https://img.shields.io/github/last-commit/hailemariam-eyayu/gitsawe_expo_app?style=flat-square&color=green) | ![Languages](https://img.shields.io/github/languages/count/hailemariam-eyayu/gitsawe_expo_app?style=flat-square&color=blue) | ![Size](https://img.shields.io/github/repo-size/hailemariam-eyayu/gitsawe_expo_app?style=flat-square&color=orange) | 🟢 Active |
+
+#### 🤖 **Bots & APIs**
+| Repository | Commits | Last Activity | Languages | Size | Status |
+|------------|---------|---------------|-----------|------|--------|
+| **gitsawebot** | ![Commits](https://img.shields.io/github/commit-activity/t/hailemariam-eyayu/gitsawebot?style=flat-square&color=red) | ![Last Commit](https://img.shields.io/github/last-commit/hailemariam-eyayu/gitsawebot?style=flat-square&color=green) | ![Languages](https://img.shields.io/github/languages/count/hailemariam-eyayu/gitsawebot?style=flat-square&color=blue) | ![Size](https://img.shields.io/github/repo-size/hailemariam-eyayu/gitsawebot?style=flat-square&color=orange) | 🟢 Active |
+
+#### 🎓 **SyntecXHub Projects**
+| Repository | Commits | Last Activity | Languages | Size | Status |
+|------------|---------|---------------|-----------|------|--------|
+| **expense-tracker-react** | ![Commits](https://img.shields.io/github/commit-activity/t/hailemariam-eyayu/expense-tracker-react?style=flat-square&color=red) | ![Last Commit](https://img.shields.io/github/last-commit/hailemariam-eyayu/expense-tracker-react?style=flat-square&color=green) | ![Languages](https://img.shields.io/github/languages/count/hailemariam-eyayu/expense-tracker-react?style=flat-square&color=blue) | ![Size](https://img.shields.io/github/repo-size/hailemariam-eyayu/expense-tracker-react?style=flat-square&color=orange) | 🟢 Active |
+| **weather-app-react** | ![Commits](https://img.shields.io/github/commit-activity/t/hailemariam-eyayu/weather-app-react?style=flat-square&color=red) | ![Last Commit](https://img.shields.io/github/last-commit/hailemariam-eyayu/weather-app-react?style=flat-square&color=green) | ![Languages](https://img.shields.io/github/languages/count/hailemariam-eyayu/weather-app-react?style=flat-square&color=blue) | ![Size](https://img.shields.io/github/repo-size/hailemariam-eyayu/weather-app-react?style=flat-square&color=orange) | 🟢 Active |
+| **notes-app-react** | ![Commits](https://img.shields.io/github/commit-activity/t/hailemariam-eyayu/notes-app-react?style=flat-square&color=red) | ![Last Commit](https://img.shields.io/github/last-commit/hailemariam-eyayu/notes-app-react?style=flat-square&color=green) | ![Languages](https://img.shields.io/github/languages/count/hailemariam-eyayu/notes-app-react?style=flat-square&color=blue) | ![Size](https://img.shields.io/github/repo-size/hailemariam-eyayu/notes-app-react?style=flat-square&color=orange) | 🟢 Active |
+
+### 🏆 GitHub Achievements & Trophies
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hailemariam-eyayu&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+</div>
 
 ## 💼 Professional Experience
 
@@ -189,7 +316,9 @@ Structured PDF-based mobile liturgical readers
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Development Activity
+
+### 🔥 Recent Development Highlights
 - Building scalable web applications with Next.js and TypeScript
 - Developing Ethiopian liturgical apps with Flutter
 - Implementing modern authentication and authorization systems
@@ -197,25 +326,97 @@ Structured PDF-based mobile liturgical readers
 - Cloud deployment and production environment management
 - Blending **technology + theology** for meaningful digital experiences
 
----
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-### 🌟 Key Achievements
+### 🌟 Key Achievements & Milestones
 - **Full-Stack Migration**: Successfully migrated complex Laravel application to Next.js
 - **Faith-Tech Integration**: Developing liturgical apps for Ethiopian Orthodox community
 - **Email Systems**: Implemented comprehensive email notification systems
 - **Management Systems**: Built 4+ complete management systems from scratch
-- **150+ Commits**: Across multiple repositories with production-ready applications
+- **SyntecXHub Certified**: Completed React development internship projects
+- **200+ Commits**: Across multiple repositories with production-ready applications
+
+---
+
+## 📫 Connect With Me & Let's Build Together
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://personal-portfolio-zdwa.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hailemariam-eyayu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hailemariam-eyayu)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HaileEden)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hailemariameyayu2012@gmail.com)
+
+### 📞 Direct Contact
+- 📧 **Email:** hailemariameyayu2012@gmail.com  
+- 📱 **Phone:** 0938169557 / 0903137664  
+- 🌐 **Portfolio:** [personal-portfolio-zdwa.vercel.app](https://personal-portfolio-zdwa.vercel.app/)
+
+</div>
+
+---
+
+## 💡 Developer Philosophy & Vision
+
+```javascript
+const hailemariam = {
+    mission: "Building software that serves people and glorifies purpose",
+    currentFocus: [
+        "Ethiopian Orthodox liturgical applications",
+        "Full-stack web development with Next.js",
+        "Cross-platform mobile development",
+        "Faith-driven technology solutions"
+    ],
+    techStack: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Laravel", "PHP", "Express"],
+        mobile: ["Flutter", "React Native", "Expo"],
+        database: ["MongoDB", "MySQL", "PostgreSQL"],
+        cloud: ["Vercel", "GitHub Actions", "CI/CD"]
+    },
+    values: ["Grace", "Growth", "Grit", "Purpose-driven development"],
+    askMeAbout: [
+        "Christian tech ministry",
+        "Ethiopian Orthodox scripture digitization", 
+        "Full-stack development",
+        "Mobile app development",
+        "Faith + Technology integration"
+    ],
+    funFact: "I compose liturgical chants in Amharic and build apps for spiritual growth! 🎼✝️"
+};
+```
+
+---
+
+<div align="center">
+
+### 🎯 "Code is like faith - it requires dedication, purpose, and the belief that what you build can make a difference." 
+
+![Profile Views](https://komarev.com/ghpvc/?username=hailemariam-eyayu&color=red&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/hailemariam-eyayu?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/hailemariam-eyayu?style=for-the-badge&color=yellow)
+
+**⭐ Star my repositories if they inspire you or help your journey!**
+
+### 🕊️ Fun Facts & Personal Touch
+- 🎼 I enjoy composing liturgical chants in Amharic  
+- 💡 My dream is to blend **technology + theology** for a digital faith experience  
+- ✝️ Building apps that serve the Ethiopian Orthodox community
+- 🌍 Passionate about using technology to preserve cultural and spiritual heritage
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hailemariam-eyayu/hailemariam-eyayu/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 ⭐️ From [hailemariam-eyayu](https://github.com/hailemariam-eyayu) - **Fueled by passion, purpose, and prayer** 🙏
 
-<!-- 
-To use this README:
-1. Copy this content
-2. Go to https://github.com/hailemariam-eyayu/hailemariam-eyayu/edit/main/README.md
-3. Replace the existing content with this enhanced version
-4. Commit the changes
-
-This merged version combines your personal touch with comprehensive technical showcase!
--->
+*Last updated: January 2026 | This README updates automatically with fresh GitHub statistics!*
