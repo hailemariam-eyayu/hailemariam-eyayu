@@ -2,7 +2,7 @@
   
 <img src="https://avatars.githubusercontent.com/u/98972478?s=400&u=32f972e98b3fcbee69646921a0a59b1e5f272b6c&v=4" alt="Hailemariam Eyayu" width="150" style="border-radius: 50%;" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Selam%2C+I'm+Hailemariam+Eyayu;Software+Engineer+%7C+Full-Stack+Developer;Technology+%2B+Theology+%7C+Faith-Driven+Coder;Building+Software+that+Serves+People)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Selam%2C+I'm+Hailemariam+Eyayu;Software+Engineer+%7C+Full-Stack+Developer;Technology+%2B+Theology+%7C+Faith-Driven+Coder;Building+Software+that+Serves+People)](https://git.io/typing-svg)
 
 </div>
 
